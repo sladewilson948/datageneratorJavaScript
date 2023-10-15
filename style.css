@@ -23,13 +23,14 @@
     justify-content: center;
     font-family: 'Sono', monospace;
     font-family: 'Young Serif', serif;
-    font-size: 18px;
+    font-size: 50px;
 }
 
 .user-input
 {
     font-family: 'Barlow', sans-serif;
     font-weight: 800;
+    font-size: 30px;
 }
 .text-data
 {
@@ -37,6 +38,7 @@
     font-weight: 800;
     background-color: #f1c00c;
     color: black;
+    font-size: 26px;
     border-radius: 10px;
     display: flex;
     flex-direction: column;
@@ -44,18 +46,3 @@
     align-items:flex-start;
 }
 
-.buttons
-{
-    display: flex;
-    flex-direction: row;
-    justify-content: space-around;
-    font-family: 'Sono', monospace;
-    font-family: 'Young Serif', serif;
-    font-size: 30px;
-    margin-left: 40%;
-    margin-right: 40%;
-    font-size: 10px;
-
-    
-    
-}
