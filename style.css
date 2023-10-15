@@ -79,7 +79,7 @@ footer {
 @media screen and (max-width: 1000px)
 {
 
-    .container
+.container
 
 {
     display: flex;
@@ -109,7 +109,7 @@ footer {
 {
     font-family: 'Barlow', sans-serif;
     font-weight: 800;
-    font-size: 26px;
+    font-size: 18px;
 }
 .text-data
 {
