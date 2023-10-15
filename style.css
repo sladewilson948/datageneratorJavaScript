@@ -24,8 +24,8 @@
     min-height: 100%;
     align-items: center;
     margin-top: 20vh;
-    margin-left: 10%;
-    margin-right: 10%;
+    margin-left: 19%;
+    margin-right: 19%;
     
 }
 
@@ -36,7 +36,7 @@
     justify-content: center;
     font-family: 'Sono', monospace;
     font-family: 'Young Serif', serif;
-    font-size: 50px;
+    font-size: 10px;
 }
 
 .user-input

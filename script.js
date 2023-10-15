@@ -31,9 +31,9 @@ function thisPassword(){
     let numbers = ["1","2","3","4","5","6","7","8","9","0"]
     let symbols = ["!","@","#","$","%","^","&","*","-","_"]
     const passlen = document.getElementById("length").value
-    if (passlen<5)
+    if (passlen<5 || passlen>=24)
     {
-        alert("The password length should be greater than or equal to 5")
+        alert("The password length should be in the range of 5 to 23 inclusive")
     }
     else{
     let sample1 = _.sample(small_chars, passlen)
